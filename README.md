@@ -11,6 +11,7 @@ Developed a FULL STACK Application using **React** (Frontend View Framework), **
 
 ## How to run
 Terminal: /front-end/todo-app % npm start
+
 IDE: /restful-web-service/src/main/java/com/tengxue/ run RestfulWebServiceApplication.java
 
 <img src="login.png" alt= "login" width= “160%”/>
