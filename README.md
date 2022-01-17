@@ -9,6 +9,6 @@ Developed a FULL STACK Application using **React** (Frontend View Framework), **
 * Connected an React Frontend to a RESTful API.
 * Connected REST API to JPA/Hibernate with Spring Boot and H2 In Memory Database.
 
-<img src="login.png" width= “100%”/>
+<img src="login.png" width= “60%”/>
 <img src="todos.png" width= “100%”/>
 
