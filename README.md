@@ -9,6 +9,10 @@ Developed a FULL STACK Application using **React** (Frontend View Framework), **
 * Connected an React Frontend to a RESTful API.
 * Connected REST API to JPA/Hibernate with Spring Boot and H2 In Memory Database.
 
+## How to run
+Terminal: /front-end/todo-app % npm start
+IDE: /restful-web-service/src/main/java/com/tengxue/ run RestfulWebServiceApplication.java
+
 <img src="login.png" alt= "login" width= “160%”/>
 <img src="todos.png" alt="todos" width= “100%”/>
 
